@@ -1,5 +1,7 @@
 # Chat-room-app
 
+A chat room app built using node.js and websocket.
+
 First install the dependencies using:
 ```
 npm install
